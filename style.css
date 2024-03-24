@@ -7,6 +7,7 @@ body{
 
 }
 main>h1{
+    font_size: 1.25rem;
     color: burlywood;
     text-align: center;
     font-family: cursive;
@@ -40,8 +41,8 @@ main>h1{
 }
 
 main>#reset-btn{
-    /* padding: 1rem; */
-    /* font-size: 1.25rem; */
+    padding: 1rem; 
+    font-size: 1.25rem;
     background-color: #191913;
     color: white;
     margin-left: auto;
@@ -52,6 +53,8 @@ main>#reset-btn{
     padding: 3px;
 }
 #new-btn{
+    padding: 1rem;
+    font-size: 1.25rem; 
     background-color: #191913;
     color: white;
     margin-left: auto;
@@ -59,7 +62,7 @@ main>#reset-btn{
     display: block;
     border: none;
     border-radius: 4px;
-    padding: 3px;
+    
 }
 
 #msg{
